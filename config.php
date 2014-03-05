@@ -1,6 +1,6 @@
 <?php
 	define('BBDD_USER', 'nahum');
-	define('BBDD_PASSWD', 'caupolican');
+	define('BBDD_PASSWD', 'lautaro');
 	define('BBDD_NAME', 'nahum_to_test');
 	
 	define('MAPS_HOST', 'maps.google.com');
